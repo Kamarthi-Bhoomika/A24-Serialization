@@ -1,0 +1,11 @@
+D:\Mphasis\.net\Day21\Assignment24\BinarySerializationImplement\BinarySerializationImplement\bin\Debug\BinarySerializationImplement.exe.config
+D:\Mphasis\.net\Day21\Assignment24\BinarySerializationImplement\BinarySerializationImplement\bin\Debug\BinarySerializationImplement.exe
+D:\Mphasis\.net\Day21\Assignment24\BinarySerializationImplement\BinarySerializationImplement\bin\Debug\BinarySerializationImplement.pdb
+D:\Mphasis\.net\Day21\Assignment24\BinarySerializationImplement\BinarySerializationImplement\bin\Debug\EmployeeLib.dll
+D:\Mphasis\.net\Day21\Assignment24\BinarySerializationImplement\BinarySerializationImplement\bin\Debug\EmployeeLib.pdb
+D:\Mphasis\.net\Day21\Assignment24\BinarySerializationImplement\BinarySerializationImplement\obj\Debug\BinarySerializationImplement.csproj.AssemblyReference.cache
+D:\Mphasis\.net\Day21\Assignment24\BinarySerializationImplement\BinarySerializationImplement\obj\Debug\BinarySerializationImplement.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\.net\Day21\Assignment24\BinarySerializationImplement\BinarySerializationImplement\obj\Debug\BinarySerializationImplement.csproj.CoreCompileInputs.cache
+D:\Mphasis\.net\Day21\Assignment24\BinarySerializationImplement\BinarySerializationImplement\obj\Debug\BinarySerializationImplement.csproj.CopyComplete
+D:\Mphasis\.net\Day21\Assignment24\BinarySerializationImplement\BinarySerializationImplement\obj\Debug\BinarySerializationImplement.exe
+D:\Mphasis\.net\Day21\Assignment24\BinarySerializationImplement\BinarySerializationImplement\obj\Debug\BinarySerializationImplement.pdb
