@@ -1,0 +1,11 @@
+D:\Mphasis\.net\Day21\Assignment24\XMLSerializationImplement\XMLSerializationImplement\bin\Debug\XMLSerializationImplement.exe.config
+D:\Mphasis\.net\Day21\Assignment24\XMLSerializationImplement\XMLSerializationImplement\bin\Debug\XMLSerializationImplement.exe
+D:\Mphasis\.net\Day21\Assignment24\XMLSerializationImplement\XMLSerializationImplement\bin\Debug\XMLSerializationImplement.pdb
+D:\Mphasis\.net\Day21\Assignment24\XMLSerializationImplement\XMLSerializationImplement\bin\Debug\EmployeeLib.dll
+D:\Mphasis\.net\Day21\Assignment24\XMLSerializationImplement\XMLSerializationImplement\bin\Debug\EmployeeLib.pdb
+D:\Mphasis\.net\Day21\Assignment24\XMLSerializationImplement\XMLSerializationImplement\obj\Debug\XMLSerializationImplement.csproj.AssemblyReference.cache
+D:\Mphasis\.net\Day21\Assignment24\XMLSerializationImplement\XMLSerializationImplement\obj\Debug\XMLSerializationImplement.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\.net\Day21\Assignment24\XMLSerializationImplement\XMLSerializationImplement\obj\Debug\XMLSerializationImplement.csproj.CoreCompileInputs.cache
+D:\Mphasis\.net\Day21\Assignment24\XMLSerializationImplement\XMLSerializationImplement\obj\Debug\XMLSerializationImplement.csproj.CopyComplete
+D:\Mphasis\.net\Day21\Assignment24\XMLSerializationImplement\XMLSerializationImplement\obj\Debug\XMLSerializationImplement.exe
+D:\Mphasis\.net\Day21\Assignment24\XMLSerializationImplement\XMLSerializationImplement\obj\Debug\XMLSerializationImplement.pdb
