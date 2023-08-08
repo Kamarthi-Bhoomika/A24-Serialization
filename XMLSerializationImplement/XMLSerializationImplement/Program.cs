@@ -22,7 +22,7 @@ namespace XMLSerializationImplement
             };
 
             XmlSerializer serializer = new XmlSerializer(typeof(Employee));
-            using (TextWriter writer = new StreamWriter("D:\\Mphasis\\.net\\Day21\\Assignment24\\employee.xml"))
+            using (TextWriter writer = new StreamWriter("D:\\Company\\.net\\Day21\\Assignment24\\employee.xml"))
             {
                 serializer.Serialize(writer, employee);
                 Console.WriteLine("De-Serialization");
@@ -30,7 +30,7 @@ namespace XMLSerializationImplement
                 Console.WriteLine($"First Name: {employee.FirstName}, Last Name: {employee.LastName}");
                 Console.WriteLine($"Salary: {employee.Salary}");
             }
-            using (TextReader reader = new StreamReader("D:\\Mphasis\\.net\\Day21\\Assignment24\\employee.xml"))
+            using (TextReader reader = new StreamReader("D:\\Company\\.net\\Day21\\Assignment24\\employee.xml"))
             {
                 Employee deserialize = (Employee)serializer.Deserialize(reader);
                 Console.WriteLine("De-Serialization");
