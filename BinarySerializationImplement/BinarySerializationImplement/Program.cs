@@ -31,7 +31,7 @@ namespace BinarySerializationImplement
                 Console.WriteLine(employee.Salary);
 
             }
-            using (FileStream fs = new FileStream("D:\\Mphasis\\.net\\Day21\\Assignment24\\employee.bin", FileMode.Open))
+            using (FileStream fs = new FileStream("D:\\Company\\.net\\Day21\\Assignment24\\employee.bin", FileMode.Open))
             {
                 Employee deserialize = (Employee)formatter.Deserialize(fs);
                 Console.WriteLine("De-Serialized");
