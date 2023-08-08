@@ -19,7 +19,7 @@ namespace BinarySerializationImplement
                 FirstName = "Kamarthi",
                 LastName = "Bhoomika",
                 Salary = 50000.00
-            };
+            }; 
             BinaryFormatter formatter = new BinaryFormatter();
             using(FileStream fs = new FileStream("D:\\Company\\.net\\Day21\\Assignment24\\employee.bin",FileMode.Create))
             {
