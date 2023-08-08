@@ -21,7 +21,7 @@ namespace BinarySerializationImplement
                 Salary = 50000.00
             };
             BinaryFormatter formatter = new BinaryFormatter();
-            using(FileStream fs = new FileStream("D:\\Mphasis\\.net\\Day21\\Assignment24\\employee.bin",FileMode.Create))
+            using(FileStream fs = new FileStream("D:\\.net\\Day21\\Assignment24\\employee.bin",FileMode.Create))
             {
                 formatter.Serialize(fs, employee);
                 Console.WriteLine("Created and Serialized");
